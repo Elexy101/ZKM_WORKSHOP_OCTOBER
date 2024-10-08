@@ -6,6 +6,10 @@ Pairing Deployment ID: https://sepolia.etherscan.io/tx/0xeb79d15ef4e1effeff6d803
 
 Verifier Deployment ID: https://sepolia.etherscan.io/tx/0x6e7dc277c109341f9306c79595fccd2a91b7ecfa89752df523c3a5cabe6bf8a8
 
+Deployer Address: 0x4D7BCF37c4F04F8780A40c101e7475E4132EC296
+
+Contract Address:  0x3770d722456791cd840c2c80a078b06da6382858 [ Created ] 
+
 
 ![Screenshot from 2024-10-08 14-45-53](https://github.com/user-attachments/assets/191c0a14-312c-4378-a58c-daa299aea90a)
 
