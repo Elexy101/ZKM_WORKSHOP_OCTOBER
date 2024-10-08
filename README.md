@@ -1,7 +1,7 @@
 # ZKM_WORKSHOP_OCTOBER
 I did the zkm workshop, installed Rust update and Go programming, and I tried out generating proofs using the zkm-template and gnark-plonky2-verifier-main to verify the proof before deploying it in the sepolia network chain
 
-#VERIFIER DEPLOYMENT ID
+# VERIFIER DEPLOYMENT ID
 Pairing Deployment ID: https://sepolia.etherscan.io/tx/0xeb79d15ef4e1effeff6d803508260504be3628783b771e570b9c3b3bb1cd20ff
 
 Verifier Deployment ID: https://sepolia.etherscan.io/tx/0x6e7dc277c109341f9306c79595fccd2a91b7ecfa89752df523c3a5cabe6bf8a8
